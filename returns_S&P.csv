@@ -1,0 +1,501 @@
+,ticker,sector,sub-industry,returns,totalYears
+0,MMM,Industrials,Conglomerates,0.5967741935483871,62
+1,AOS,Industrials,Specialty Industrial Machinery,0.7,40
+2,ABT,Healthcare,Medical Devices,0.6136363636363636,44
+3,ABBV,Healthcare,Drug Manufacturers - General,0.6363636363636364,11
+4,ACN,Technology,Information Technology Services,0.5454545454545454,22
+5,ADBE,Technology,Software - Infrastructure,0.5675675675675675,37
+6,AMD,Technology,Semiconductors,0.7045454545454546,44
+7,AES,Utilities,Utilities - Diversified,0.53125,32
+8,AFL,Financial Services,Insurance - Life,0.5909090909090909,44
+9,A,Healthcare,Diagnostics & Research,0.5833333333333334,24
+10,APD,Basic Materials,Specialty Chemicals,0.7272727272727273,44
+11,ABNB,Consumer Cyclical,Travel Services,0.6666666666666666,3
+12,AKAM,Technology,Software - Infrastructure,0.7083333333333334,24
+13,ALB,Basic Materials,Specialty Chemicals,0.5666666666666667,30
+14,ARE,Real Estate,REIT - Office,0.5769230769230769,26
+15,ALGN,Healthcare,Medical Instruments & Supplies,0.6521739130434783,23
+16,ALLE,Industrials,Security & Protection Services,0.6,10
+17,LNT,Utilities,Utilities - Regulated Electric,0.5098039215686274,51
+18,ALL,Financial Services,Insurance - Property & Casualty,0.5666666666666667,30
+19,GOOGL,Communication Services,Internet Content & Information,0.3684210526315789,19
+20,GOOG,Communication Services,Internet Content & Information,0.3684210526315789,19
+21,MO,Consumer Defensive,Tobacco,0.5161290322580645,62
+22,AMZN,Consumer Cyclical,Internet Retail,0.5769230769230769,26
+23,AMCR,Consumer Cyclical,Packaging & Containers,0.45454545454545453,11
+24,AEE,Utilities,Utilities - Regulated Electric,0.5,26
+25,AEP,Utilities,Utilities - Regulated Electric,0.45161290322580644,62
+26,AXP,Financial Services,Credit Services,0.5882352941176471,51
+27,AIG,Financial Services,Insurance - Diversified,0.47058823529411764,51
+28,AMT,Real Estate,REIT - Specialty,0.4230769230769231,26
+29,AWK,Utilities,Utilities - Regulated Water,0.625,16
+30,AMP,Financial Services,Asset Management,0.5,18
+31,AME,Industrials,Specialty Industrial Machinery,0.7692307692307693,39
+32,AMGN,Healthcare,Drug Manufacturers - General,0.375,40
+33,APH,Technology,Electronic Components,0.5625,32
+34,ADI,Technology,Semiconductors,0.6818181818181818,44
+35,ANSS,Technology,Software - Application,0.5925925925925926,27
+36,AON,Financial Services,Insurance Brokers,0.6046511627906976,43
+37,APA,Energy,Oil & Gas E&P,0.5454545454545454,44
+38,AAPL,Technology,Consumer Electronics,0.5116279069767442,43
+39,AMAT,Technology,Semiconductor Equipment & Materials,0.6818181818181818,44
+40,APTV,Consumer Cyclical,Auto Parts,0.5,12
+41,ACGL,Financial Services,Insurance - Diversified,0.5357142857142857,28
+42,ADM,Consumer Defensive,Farm Products,0.4090909090909091,44
+43,ANET,Technology,Computer Hardware,0.6666666666666666,9
+44,AJG,Financial Services,Insurance Brokers,0.46153846153846156,39
+45,AIZ,Financial Services,Insurance - Property & Casualty,0.5,20
+46,T,Communication Services,Telecom Services,0.575,40
+47,ATO,Utilities,Utilities - Regulated Gas,0.55,40
+48,ADSK,Technology,Software - Application,0.6842105263157895,38
+49,ADP,Technology,Software - Application,0.5,44
+50,AZO,Consumer Cyclical,Specialty Retail,0.6363636363636364,33
+51,AVB,Real Estate,REIT - Residential,0.5666666666666667,30
+52,AVY,Consumer Cyclical,Packaging & Containers,0.6470588235294118,51
+53,AXON,Industrials,Aerospace & Defense,0.5909090909090909,22
+54,BKR,Energy,Oil & Gas Equipment & Services,0.6756756756756757,37
+55,BALL,Consumer Cyclical,Packaging & Containers,0.6470588235294118,51
+56,BAC,Financial Services,Banks - Diversified,0.6274509803921569,51
+57,BK,Financial Services,Banks - Diversified,0.6,50
+58,BBWI,Consumer Cyclical,Specialty Retail,0.5476190476190477,42
+59,BAX,Healthcare,Medical Instruments & Supplies,0.7142857142857143,42
+60,BDX,Healthcare,Medical Instruments & Supplies,0.6470588235294118,51
+61,BBY,Consumer Cyclical,Specialty Retail,0.5641025641025641,39
+62,TECH,Healthcare,Biotechnology,0.5714285714285714,35
+63,BIIB,Healthcare,Drug Manufacturers - General,0.4375,32
+64,BLK,Financial Services,Asset Management,0.5416666666666666,24
+65,BX,Financial Services,Asset Management,0.6875,16
+66,BA,Industrials,Aerospace & Defense,0.5645161290322581,62
+67,BKNG,Consumer Cyclical,Travel Services,0.68,25
+68,BWA,Consumer Cyclical,Auto Parts,0.7,30
+69,BSX,Healthcare,Medical Devices,0.6129032258064516,31
+70,BMY,Healthcare,Drug Manufacturers - General,0.43137254901960786,51
+71,AVGO,Technology,Semiconductors,0.5714285714285714,14
+72,BR,Technology,Information Technology Services,0.47058823529411764,17
+73,BRO,Financial Services,Insurance Brokers,0.4883720930232558,43
+74,BLDR,Industrials,Building Products & Equipment,0.6111111111111112,18
+75,BG,Consumer Defensive,Farm Products,0.5,22
+76,BXP,Real Estate,REIT - Office,0.6923076923076923,26
+77,CHRW,Industrials,Integrated Freight & Logistics,0.6153846153846154,26
+78,CDNS,Technology,Software - Application,0.5277777777777778,36
+79,CZR,Consumer Cyclical,Resorts & Casinos,0.5555555555555556,9
+80,CPT,Real Estate,REIT - Residential,0.6333333333333333,30
+81,CPB,Consumer Defensive,Packaged Foods,0.5490196078431373,51
+82,COF,Financial Services,Credit Services,0.4827586206896552,29
+83,CAH,Healthcare,Medical Distribution,0.525,40
+84,KMX,Consumer Cyclical,Auto & Truck Dealerships,0.5925925925925926,27
+85,CCL,Consumer Cyclical,Travel Services,0.5833333333333334,36
+86,CARR,Industrials,Building Products & Equipment,0.5,4
+87,CTLT,Healthcare,Drug Manufacturers - Specialty & Generic,0.6666666666666666,9
+88,CAT,Industrials,Farm & Heavy Construction Machinery,0.6935483870967742,62
+89,CBOE,Financial Services,Financial Data & Stock Exchanges,0.3076923076923077,13
+90,CBRE,Real Estate,Real Estate Services,0.8421052631578947,19
+91,CDW,Technology,Information Technology Services,0.4,10
+92,CE,Basic Materials,Chemicals,0.5789473684210527,19
+93,COR,Healthcare,Medical Distribution,0.5862068965517241,29
+94,CNC,Healthcare,Healthcare Plans,0.45454545454545453,22
+95,CNP,Utilities,Utilities - Regulated Electric,0.5,62
+96,CF,Basic Materials,Agricultural Inputs,0.3888888888888889,18
+97,CRL,Healthcare,Diagnostics & Research,0.5217391304347826,23
+98,SCHW,Financial Services,Capital Markets,0.6111111111111112,36
+99,CHTR,Communication Services,Telecom Services,0.42857142857142855,14
+100,CVX,Energy,Oil & Gas Integrated,0.6451612903225806,62
+101,CMG,Consumer Cyclical,Restaurants,0.5555555555555556,18
+102,CB,Financial Services,Insurance - Property & Casualty,0.41935483870967744,31
+103,CHD,Consumer Defensive,Household & Personal Products,0.6363636363636364,44
+104,CI,Healthcare,Healthcare Plans,0.5,42
+105,CINF,Financial Services,Insurance - Property & Casualty,0.5454545454545454,44
+106,CTAS,Industrials,Specialty Business Services,0.5,40
+107,CSCO,Technology,Communication Equipment,0.47058823529411764,34
+108,C,Financial Services,Banks - Diversified,0.5531914893617021,47
+109,CFG,Financial Services,Banks - Regional,0.6666666666666666,9
+110,CLX,Consumer Defensive,Household & Personal Products,0.6078431372549019,51
+111,CME,Financial Services,Financial Data & Stock Exchanges,0.42857142857142855,21
+112,CMS,Utilities,Utilities - Regulated Electric,0.5882352941176471,51
+113,KO,Consumer Defensive,Beverages - Non-Alcoholic,0.5967741935483871,62
+114,CTSH,Technology,Information Technology Services,0.52,25
+115,CL,Consumer Defensive,Household & Personal Products,0.72,50
+116,CMCSA,Communication Services,Telecom Services,0.5,44
+117,CAG,Consumer Defensive,Packaged Foods,0.38636363636363635,44
+118,COP,Energy,Oil & Gas E&P,0.5476190476190477,42
+119,ED,Utilities,Utilities - Regulated Electric,0.532258064516129,62
+120,STZ,Consumer Defensive,Beverages - Brewers,0.53125,32
+121,CEG,Utilities,Utilities - Renewable,0.5,2
+122,COO,Healthcare,Medical Instruments & Supplies,0.5609756097560976,41
+123,CPRT,Industrials,Specialty Business Services,0.7,30
+124,GLW,Technology,Electronic Components,0.6428571428571429,42
+125,CPAY,Technology,Software - Infrastructure,0.6923076923076923,13
+126,CTVA,Basic Materials,Agricultural Inputs,0.75,4
+127,CSGP,Real Estate,Real Estate Services,0.6,25
+128,COST,Consumer Defensive,Discount Stores,0.4864864864864865,37
+129,CTRA,Energy,Oil & Gas E&P,0.6176470588235294,34
+130,CRWD,Technology,Software - Infrastructure,0.25,4
+131,CCI,Real Estate,REIT - Specialty,0.68,25
+132,CSX,Industrials,Railroads,0.627906976744186,43
+133,CMI,Industrials,Specialty Industrial Machinery,0.6470588235294118,51
+134,CVS,Healthcare,Healthcare Plans,0.6470588235294118,51
+135,DHR,Healthcare,Diagnostics & Research,0.6666666666666666,45
+136,DRI,Consumer Cyclical,Restaurants,0.6071428571428571,28
+137,DVA,Healthcare,Medical Care Facilities,0.5,28
+138,DAY,Technology,Software - Application,0.5,6
+139,DECK,Consumer Cyclical,Footwear & Accessories,0.5333333333333333,30
+140,DE,Industrials,Farm & Heavy Construction Machinery,0.6862745098039216,51
+141,DELL,Technology,Computer Hardware,0.7142857142857143,7
+142,DAL,Industrials,Airlines,0.625,16
+143,DVN,Energy,Oil & Gas E&P,0.47368421052631576,38
+144,DXCM,Healthcare,Medical Devices,0.5263157894736842,19
+145,FANG,Energy,Oil & Gas E&P,0.6363636363636364,11
+146,DLR,Real Estate,REIT - Specialty,0.7368421052631579,19
+147,DFS,Financial Services,Credit Services,0.5625,16
+148,DG,Consumer Defensive,Discount Stores,0.6428571428571429,14
+149,DLTR,Consumer Defensive,Discount Stores,0.5517241379310345,29
+150,D,Utilities,Utilities - Regulated Electric,0.4318181818181818,44
+151,DPZ,Consumer Cyclical,Restaurants,0.631578947368421,19
+152,DOV,Industrials,Specialty Industrial Machinery,0.75,44
+153,DOW,Basic Materials,Chemicals,0.6,5
+154,DHI,Consumer Cyclical,Residential Construction,0.5806451612903226,31
+155,DTE,Utilities,Utilities - Regulated Electric,0.5483870967741935,62
+156,DUK,Utilities,Utilities - Regulated Electric,0.45454545454545453,44
+157,DD,Basic Materials,Specialty Chemicals,0.6666666666666666,51
+158,EMN,Basic Materials,Specialty Chemicals,0.7666666666666667,30
+159,ETN,Industrials,Specialty Industrial Machinery,0.7450980392156863,51
+160,EBAY,Consumer Cyclical,Internet Retail,0.56,25
+161,ECL,Basic Materials,Specialty Chemicals,0.5490196078431373,51
+162,EIX,Utilities,Utilities - Regulated Electric,0.44,50
+163,EW,Healthcare,Medical Devices,0.7916666666666666,24
+164,EA,Communication Services,Electronic Gaming & Multimedia,0.38235294117647056,34
+165,ELV,Healthcare,Healthcare Plans,0.6818181818181818,22
+166,EMR,Industrials,Specialty Industrial Machinery,0.7254901960784313,51
+167,ENPH,Technology,Solar,0.5833333333333334,12
+168,ETR,Utilities,Utilities - Regulated Electric,0.39215686274509803,51
+169,EOG,Energy,Oil & Gas E&P,0.6764705882352942,34
+170,EPAM,Technology,Information Technology Services,0.5833333333333334,12
+171,EQT,Energy,Oil & Gas E&P,0.6136363636363636,44
+172,EFX,Industrials,Consulting Services,0.75,44
+173,EQIX,Real Estate,REIT - Specialty,0.5217391304347826,23
+174,EQR,Real Estate,REIT - Residential,0.6333333333333333,30
+175,ERIE,Financial Services,Insurance Brokers,0.5,28
+176,ESS,Real Estate,REIT - Residential,0.5862068965517241,29
+177,EL,Consumer Defensive,Household & Personal Products,0.7857142857142857,28
+178,EG,Financial Services,Insurance - Reinsurance,0.5357142857142857,28
+179,EVRG,Utilities,Utilities - Regulated Electric,0.6078431372549019,51
+180,ES,Utilities,Utilities - Regulated Electric,0.5294117647058824,51
+181,EXC,Utilities,Utilities - Regulated Electric,0.46,50
+182,EXPE,Consumer Cyclical,Travel Services,0.5,18
+183,EXPD,Industrials,Integrated Freight & Logistics,0.5641025641025641,39
+184,EXR,Real Estate,REIT - Industrial,0.5789473684210527,19
+185,XOM,Energy,Oil & Gas Integrated,0.5645161290322581,62
+186,FFIV,Technology,Software - Infrastructure,0.4583333333333333,24
+187,FDS,Financial Services,Financial Data & Stock Exchanges,0.4444444444444444,27
+188,FICO,Technology,Software - Application,0.6111111111111112,36
+189,FAST,Industrials,Industrial Distribution,0.6388888888888888,36
+190,FRT,Real Estate,REIT - Retail,0.62,50
+191,FDX,Industrials,Integrated Freight & Logistics,0.45652173913043476,46
+192,FIS,Technology,Information Technology Services,0.5454545454545454,22
+193,FITB,Financial Services,Banks - Regional,0.4772727272727273,44
+194,FSLR,Technology,Solar,0.5294117647058824,17
+195,FE,Utilities,Utilities - Regulated Electric,0.6153846153846154,26
+196,FI,Technology,Information Technology Services,0.6486486486486487,37
+197,FMC,Basic Materials,Agricultural Inputs,0.5454545454545454,44
+198,F,Consumer Cyclical,Auto Manufacturers,0.6470588235294118,51
+199,FTNT,Technology,Software - Infrastructure,0.7142857142857143,14
+200,FTV,Technology,Scientific & Technical Instruments,0.42857142857142855,7
+201,FOXA,Communication Services,Entertainment,0.6,5
+202,FOX,Communication Services,Entertainment,0.6,5
+203,BEN,Financial Services,Asset Management,0.525,40
+204,FCX,Basic Materials,Copper,0.5714285714285714,28
+205,GRMN,Technology,Scientific & Technical Instruments,0.5652173913043478,23
+206,IT,Technology,Information Technology Services,0.5,30
+207,GE,Industrials,Aerospace & Defense,0.6935483870967742,62
+208,GEHC,Healthcare,Health Information Services,1.0,1
+209,GEV,Utilities,Utilities - Renewable,,0
+210,GEN,Technology,Software - Infrastructure,0.47058823529411764,34
+211,GNRC,Industrials,Specialty Industrial Machinery,0.35714285714285715,14
+212,GD,Industrials,Aerospace & Defense,0.5483870967741935,62
+213,GIS,Consumer Defensive,Packaged Foods,0.4318181818181818,44
+214,GM,Consumer Cyclical,Auto Manufacturers,0.5384615384615384,13
+215,GPC,Consumer Cyclical,Auto Parts,0.6818181818181818,44
+216,GILD,Healthcare,Drug Manufacturers - General,0.40625,32
+217,GPN,Industrials,Specialty Business Services,0.5652173913043478,23
+218,GL,Financial Services,Insurance - Life,0.5813953488372093,43
+219,GDDY,Technology,Software - Infrastructure,0.6666666666666666,9
+220,GS,Financial Services,Capital Markets,0.4166666666666667,24
+221,HAL,Energy,Oil & Gas Equipment & Services,0.6078431372549019,51
+222,HIG,Financial Services,Insurance - Property & Casualty,0.5714285714285714,28
+223,HAS,Consumer Cyclical,Leisure,0.6363636363636364,44
+224,HCA,Healthcare,Medical Care Facilities,0.6153846153846154,13
+225,DOC,Real Estate,REIT - Healthcare Facilities,0.4473684210526316,38
+226,HSIC,Healthcare,Medical Distribution,0.5357142857142857,28
+227,HSY,Consumer Defensive,Confectioners,0.5,44
+228,HES,Energy,Oil & Gas E&P,0.6590909090909091,44
+229,HPE,Technology,Communication Equipment,0.75,8
+230,HLT,Consumer Cyclical,Lodging,0.7,10
+231,HOLX,Healthcare,Medical Instruments & Supplies,0.5588235294117647,34
+232,HD,Consumer Cyclical,Home Improvement Retail,0.5952380952380952,42
+233,HON,Industrials,Conglomerates,0.6290322580645161,62
+234,HRL,Consumer Defensive,Packaged Foods,0.5681818181818182,44
+235,HST,Real Estate,REIT - Hotel & Motel,0.6136363636363636,44
+236,HWM,Industrials,Aerospace & Defense,0.5714285714285714,7
+237,HPQ,Technology,Computer Hardware,0.6935483870967742,62
+238,HUBB,Industrials,Electrical Equipment & Parts,0.5098039215686274,51
+239,HUM,Healthcare,Healthcare Plans,0.5476190476190477,42
+240,HBAN,Financial Services,Banks - Regional,0.6136363636363636,44
+241,HII,Industrials,Aerospace & Defense,0.7692307692307693,13
+242,IBM,Technology,Information Technology Services,0.5806451612903226,62
+243,IEX,Industrials,Specialty Industrial Machinery,0.7058823529411765,34
+244,IDXX,Healthcare,Diagnostics & Research,0.59375,32
+245,ITW,Industrials,Specialty Industrial Machinery,0.6470588235294118,51
+246,INCY,Healthcare,Biotechnology,0.5666666666666667,30
+247,IR,Industrials,Specialty Industrial Machinery,0.5,6
+248,PODD,Healthcare,Medical Devices,0.5,16
+249,INTC,Technology,Semiconductors,0.6136363636363636,44
+250,ICE,Financial Services,Financial Data & Stock Exchanges,0.5555555555555556,18
+251,IFF,Basic Materials,Specialty Chemicals,0.6122448979591837,49
+252,IP,Consumer Cyclical,Packaging & Containers,0.6774193548387096,62
+253,IPG,Communication Services,Advertising Agencies,0.7272727272727273,44
+254,INTU,Technology,Software - Application,0.45161290322580644,31
+255,ISRG,Healthcare,Medical Instruments & Supplies,0.43478260869565216,23
+256,IVZ,Financial Services,Asset Management,0.6428571428571429,28
+257,INVH,Real Estate,REIT - Residential,0.5714285714285714,7
+258,IQV,Healthcare,Diagnostics & Research,0.4,10
+259,IRM,Real Estate,REIT - Specialty,0.6071428571428571,28
+260,JBHT,Industrials,Integrated Freight & Logistics,0.7,40
+261,JBL,Technology,Electronic Components,0.5666666666666667,30
+262,JKHY,Technology,Information Technology Services,0.5526315789473685,38
+263,J,Industrials,Engineering & Construction,0.6136363636363636,44
+264,JNJ,Healthcare,Drug Manufacturers - General,0.5806451612903226,62
+265,JCI,Industrials,Building Products & Equipment,0.5555555555555556,36
+266,JPM,Financial Services,Banks - Diversified,0.5909090909090909,44
+267,JNPR,Technology,Communication Equipment,0.5833333333333334,24
+268,K,Consumer Defensive,Packaged Foods,0.43137254901960786,51
+269,KVUE,Consumer Defensive,Household & Personal Products,,0
+270,KDP,Consumer Defensive,Beverages - Non-Alcoholic,0.6,15
+271,KEY,Financial Services,Banks - Regional,0.6111111111111112,36
+272,KEYS,Technology,Scientific & Technical Instruments,0.3333333333333333,9
+273,KMB,Consumer Defensive,Household & Personal Products,0.5681818181818182,44
+274,KIM,Real Estate,REIT - Retail,0.625,32
+275,KMI,Energy,Oil & Gas Midstream,0.6153846153846154,13
+276,KKR,Financial Services,Asset Management,0.5384615384615384,13
+277,KLAC,Technology,Semiconductor Equipment & Materials,0.627906976744186,43
+278,KHC,Consumer Defensive,Packaged Foods,0.5,8
+279,KR,Consumer Defensive,Grocery Stores,0.6290322580645161,62
+280,LHX,Industrials,Aerospace & Defense,0.5952380952380952,42
+281,LH,Healthcare,Diagnostics & Research,0.5882352941176471,34
+282,LRCX,Technology,Semiconductor Equipment & Materials,0.5897435897435898,39
+283,LW,Consumer Defensive,Packaged Foods,0.5714285714285714,7
+284,LVS,Consumer Cyclical,Resorts & Casinos,0.5789473684210527,19
+285,LDOS,Technology,Information Technology Services,0.6470588235294118,17
+286,LEN,Consumer Cyclical,Residential Construction,0.6590909090909091,44
+287,LLY,Healthcare,Drug Manufacturers - General,0.5686274509803921,51
+288,LIN,Basic Materials,Specialty Chemicals,0.6774193548387096,31
+289,LYV,Communication Services,Entertainment,0.3333333333333333,18
+290,LKQ,Consumer Cyclical,Auto Parts,0.5,20
+291,LMT,Industrials,Aerospace & Defense,0.574468085106383,47
+292,L,Financial Services,Insurance - Property & Casualty,0.5681818181818182,44
+293,LOW,Consumer Cyclical,Home Improvement Retail,0.6136363636363636,44
+294,LULU,Consumer Cyclical,Apparel Retail,0.5625,16
+295,LYB,Basic Materials,Specialty Chemicals,0.7142857142857143,14
+296,MTB,Financial Services,Banks - Regional,0.6363636363636364,44
+297,MRO,Energy,Oil & Gas E&P,0.5967741935483871,62
+298,MPC,Energy,Oil & Gas Refining & Marketing,0.5833333333333334,12
+299,MKTX,Financial Services,Capital Markets,0.631578947368421,19
+300,MAR,Consumer Cyclical,Lodging,0.6538461538461539,26
+301,MMC,Financial Services,Insurance Brokers,0.6470588235294118,51
+302,MLM,Basic Materials,Building Materials,0.7666666666666667,30
+303,MAS,Industrials,Building Products & Equipment,0.6136363636363636,44
+304,MA,Financial Services,Credit Services,0.5882352941176471,17
+305,MTCH,Communication Services,Internet Content & Information,0.4838709677419355,31
+306,MKC,Consumer Defensive,Packaged Foods,0.5882352941176471,51
+307,MCD,Consumer Cyclical,Restaurants,0.5263157894736842,57
+308,MCK,Healthcare,Medical Distribution,0.5517241379310345,29
+309,MDT,Healthcare,Medical Devices,0.54,50
+310,MRK,Healthcare,Drug Manufacturers - General,0.5806451612903226,62
+311,META,Communication Services,Internet Content & Information,0.45454545454545453,11
+312,MET,Financial Services,Insurance - Life,0.5833333333333334,24
+313,MTD,Healthcare,Diagnostics & Research,0.6538461538461539,26
+314,MGM,Consumer Cyclical,Resorts & Casinos,0.6285714285714286,35
+315,MCHP,Technology,Semiconductors,0.5806451612903226,31
+316,MU,Technology,Semiconductors,0.6153846153846154,39
+317,MSFT,Technology,Software - Infrastructure,0.5263157894736842,38
+318,MAA,Real Estate,REIT - Residential,0.6333333333333333,30
+319,MRNA,Healthcare,Biotechnology,0.6,5
+320,MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",0.65625,32
+321,MOH,Healthcare,Healthcare Plans,0.5,20
+322,TAP,Consumer Defensive,Beverages - Brewers,0.5416666666666666,48
+323,MDLZ,Consumer Defensive,Confectioners,0.5454545454545454,22
+324,MPWR,Technology,Semiconductors,0.5263157894736842,19
+325,MNST,Consumer Defensive,Beverages - Non-Alcoholic,0.6578947368421053,38
+326,MCO,Financial Services,Financial Data & Stock Exchanges,0.6206896551724138,29
+327,MS,Financial Services,Capital Markets,0.5806451612903226,31
+328,MOS,Basic Materials,Agricultural Inputs,0.6388888888888888,36
+329,MSI,Technology,Communication Equipment,0.5483870967741935,62
+330,MSCI,Financial Services,Financial Data & Stock Exchanges,0.625,16
+331,NDAQ,Financial Services,Financial Data & Stock Exchanges,0.5238095238095238,21
+332,NTAP,Technology,Computer Hardware,0.42857142857142855,28
+333,NFLX,Communication Services,Entertainment,0.5238095238095238,21
+334,NEM,Basic Materials,Gold,0.5681818181818182,44
+335,NWSA,Communication Services,Entertainment,0.6,10
+336,NWS,Communication Services,Entertainment,0.6,10
+337,NEE,Utilities,Utilities - Regulated Electric,0.45098039215686275,51
+338,NKE,Consumer Cyclical,Footwear & Accessories,0.4883720930232558,43
+339,NI,Utilities,Utilities - Regulated Gas,0.6078431372549019,51
+340,NDSN,Industrials,Specialty Industrial Machinery,0.5454545454545454,44
+341,NSC,Industrials,Railroads,0.6097560975609756,41
+342,NTRS,Financial Services,Asset Management,0.6818181818181818,44
+343,NOC,Industrials,Aerospace & Defense,0.5952380952380952,42
+344,NCLH,Consumer Cyclical,Travel Services,0.45454545454545453,11
+345,NRG,Utilities,Utilities - Independent Power Producers,0.45,20
+346,NUE,Basic Materials,Steel,0.7045454545454546,44
+347,NVDA,Technology,Semiconductors,0.56,25
+348,NVR,Consumer Cyclical,Residential Construction,0.6052631578947368,38
+349,NXPI,Technology,Semiconductors,0.5384615384615384,13
+350,ORLY,Consumer Cyclical,Specialty Retail,0.5161290322580645,31
+351,OXY,Energy,Oil & Gas E&P,0.6428571428571429,42
+352,ODFL,Industrials,Trucking,0.65625,32
+353,OMC,Communication Services,Advertising Agencies,0.6818181818181818,44
+354,ON,Technology,Semiconductors,0.6956521739130435,23
+355,OKE,Energy,Oil & Gas Midstream,0.5116279069767442,43
+356,ORCL,Technology,Software - Infrastructure,0.5,38
+357,OTIS,Industrials,Specialty Industrial Machinery,0.75,4
+358,PCAR,Industrials,Farm & Heavy Construction Machinery,0.6818181818181818,44
+359,PKG,Consumer Cyclical,Packaging & Containers,0.625,24
+360,PLTR,Technology,Software - Infrastructure,0.3333333333333333,3
+361,PANW,Technology,Software - Infrastructure,0.36363636363636365,11
+362,PARA,Communication Services,Entertainment,0.5555555555555556,18
+363,PH,Industrials,Specialty Industrial Machinery,0.7727272727272727,44
+364,PAYX,Technology,Software - Application,0.525,40
+365,PAYC,Technology,Software - Application,0.5,10
+366,PYPL,Financial Services,Credit Services,0.625,8
+367,PNR,Industrials,Specialty Industrial Machinery,0.64,50
+368,PEP,Consumer Defensive,Beverages - Non-Alcoholic,0.5294117647058824,51
+369,PFE,Healthcare,Drug Manufacturers - General,0.5490196078431373,51
+370,PCG,Utilities,Utilities - Regulated Electric,0.5294117647058824,51
+371,PM,Consumer Defensive,Tobacco,0.6875,16
+372,PSX,Energy,Oil & Gas Refining & Marketing,0.6666666666666666,12
+373,PNW,Utilities,Utilities - Regulated Electric,0.5098039215686274,51
+374,PNC,Financial Services,Banks - Regional,0.7083333333333334,48
+375,POOL,Industrials,Industrial Distribution,0.75,28
+376,PPG,Basic Materials,Specialty Chemicals,0.6818181818181818,44
+377,PPL,Utilities,Utilities - Regulated Electric,0.4090909090909091,44
+378,PFG,Financial Services,Asset Management,0.5,22
+379,PG,Consumer Defensive,Household & Personal Products,0.4032258064516129,62
+380,PGR,Financial Services,Insurance - Property & Casualty,0.5681818181818182,44
+381,PLD,Real Estate,REIT - Industrial,0.6153846153846154,26
+382,PRU,Financial Services,Insurance - Life,0.5,22
+383,PEG,Utilities,Utilities - Regulated Electric,0.5,44
+384,PTC,Technology,Software - Application,0.5,34
+385,PSA,Real Estate,REIT - Industrial,0.6511627906976745,43
+386,PHM,Consumer Cyclical,Residential Construction,0.6136363636363636,44
+387,QRVO,Technology,Semiconductors,0.4444444444444444,9
+388,PWR,Industrials,Engineering & Construction,0.5769230769230769,26
+389,QCOM,Technology,Semiconductors,0.53125,32
+390,DGX,Healthcare,Diagnostics & Research,0.7037037037037037,27
+391,RL,Consumer Cyclical,Apparel Manufacturing,0.6153846153846154,26
+392,RJF,Financial Services,Asset Management,0.525,40
+393,RTX,Industrials,Aerospace & Defense,0.7580645161290323,62
+394,O,Real Estate,REIT - Retail,0.5517241379310345,29
+395,REG,Real Estate,REIT - Retail,0.5333333333333333,30
+396,REGN,Healthcare,Biotechnology,0.42424242424242425,33
+397,RF,Financial Services,Banks - Regional,0.6136363636363636,44
+398,RSG,Industrials,Waste Management,0.72,25
+399,RMD,Healthcare,Medical Instruments & Supplies,0.5357142857142857,28
+400,RVTY,Healthcare,Diagnostics & Research,0.6078431372549019,51
+401,ROK,Industrials,Specialty Industrial Machinery,0.6904761904761905,42
+402,ROL,Consumer Cyclical,Personal Services,0.5454545454545454,44
+403,ROP,Technology,Software - Application,0.59375,32
+404,ROST,Consumer Cyclical,Apparel Retail,0.6578947368421053,38
+405,RCL,Consumer Cyclical,Travel Services,0.5483870967741935,31
+406,SPGI,Financial Services,Financial Data & Stock Exchanges,0.5882352941176471,51
+407,CRM,Technology,Software - Application,0.5263157894736842,19
+408,SBAC,Real Estate,REIT - Specialty,0.5,24
+409,SLB,Energy,Oil & Gas Equipment & Services,0.6904761904761905,42
+410,STX,Technology,Computer Hardware,0.5714285714285714,21
+411,SRE,Utilities,Utilities - Diversified,0.6,25
+412,NOW,Technology,Software - Application,0.36363636363636365,11
+413,SHW,Basic Materials,Specialty Chemicals,0.7045454545454546,44
+414,SPG,Real Estate,REIT - Retail,0.6,30
+415,SWKS,Technology,Semiconductors,0.6666666666666666,39
+416,SJM,Consumer Defensive,Packaged Foods,0.5517241379310345,29
+417,SNA,Industrials,Tools & Accessories,0.6862745098039216,51
+418,SOLV,Healthcare,Health Information Services,,0
+419,SO,Utilities,Utilities - Regulated Electric,0.4523809523809524,42
+420,LUV,Industrials,Airlines,0.6363636363636364,44
+421,SWK,Industrials,Tools & Accessories,0.6136363636363636,44
+422,SBUX,Consumer Cyclical,Restaurants,0.5161290322580645,31
+423,STT,Financial Services,Asset Management,0.5454545454545454,44
+424,STLD,Basic Materials,Steel,0.7407407407407407,27
+425,STE,Healthcare,Medical Devices,0.41935483870967744,31
+426,SYK,Healthcare,Medical Devices,0.6363636363636364,44
+427,SMCI,Technology,Computer Hardware,0.6470588235294118,17
+428,SYF,Financial Services,Credit Services,0.4444444444444444,9
+429,SNPS,Technology,Software - Infrastructure,0.53125,32
+430,SYY,Consumer Defensive,Food Distribution,0.56,50
+431,TMUS,Communication Services,Telecom Services,0.5882352941176471,17
+432,TROW,Financial Services,Asset Management,0.5789473684210527,38
+433,TTWO,Communication Services,Electronic Gaming & Multimedia,0.4074074074074074,27
+434,TPR,Consumer Cyclical,Luxury Goods,0.782608695652174,23
+435,TRGP,Energy,Oil & Gas Midstream,0.6923076923076923,13
+436,TGT,Consumer Defensive,Discount Stores,0.5098039215686274,51
+437,TEL,Technology,Electronic Components,0.625,16
+438,TDY,Technology,Scientific & Technical Instruments,0.4166666666666667,24
+439,TFX,Healthcare,Medical Instruments & Supplies,0.6590909090909091,44
+440,TER,Technology,Semiconductor Equipment & Materials,0.6274509803921569,51
+441,TSLA,Consumer Cyclical,Auto Manufacturers,0.38461538461538464,13
+442,TXN,Technology,Semiconductors,0.6078431372549019,51
+443,TXT,Industrials,Aerospace & Defense,0.6274509803921569,51
+444,TMO,Healthcare,Diagnostics & Research,0.6818181818181818,44
+445,TJX,Consumer Cyclical,Apparel Retail,0.5,36
+446,TSCO,Consumer Cyclical,Specialty Retail,0.7,30
+447,TT,Industrials,Building Products & Equipment,0.75,44
+448,TDG,Industrials,Aerospace & Defense,0.5,18
+449,TRV,Financial Services,Insurance - Property & Casualty,0.5833333333333334,48
+450,TRMB,Technology,Scientific & Technical Instruments,0.6363636363636364,33
+451,TFC,Financial Services,Banks - Regional,0.45454545454545453,44
+452,TYL,Technology,Software - Application,0.5454545454545454,44
+453,TSN,Consumer Defensive,Farm Products,0.5454545454545454,44
+454,USB,Financial Services,Banks - Regional,0.58,50
+455,UBER,Technology,Software - Application,0.75,4
+456,UDR,Real Estate,REIT - Residential,0.5454545454545454,44
+457,ULTA,Consumer Cyclical,Specialty Retail,0.6875,16
+458,UNP,Industrials,Railroads,0.5681818181818182,44
+459,UAL,Industrials,Airlines,0.5555555555555556,18
+460,UPS,Industrials,Integrated Freight & Logistics,0.5416666666666666,24
+461,URI,Industrials,Rental & Leasing Services,0.6923076923076923,26
+462,UNH,Healthcare,Healthcare Plans,0.5384615384615384,39
+463,UHS,Healthcare,Medical Care Facilities,0.7380952380952381,42
+464,VLO,Energy,Oil & Gas Refining & Marketing,0.7380952380952381,42
+465,VTR,Real Estate,REIT - Healthcare Facilities,0.46153846153846156,26
+466,VLTO,Industrials,Pollution & Treatment Controls,,0
+467,VRSN,Technology,Software - Infrastructure,0.46153846153846156,26
+468,VRSK,Industrials,Consulting Services,0.6428571428571429,14
+469,VZ,Communication Services,Telecom Services,0.425,40
+470,VRTX,Healthcare,Biotechnology,0.5,32
+471,VTRS,Healthcare,Drug Manufacturers - Specialty & Generic,0.6136363636363636,44
+472,VICI,Real Estate,REIT - Diversified,0.3333333333333333,6
+473,V,Financial Services,Credit Services,0.6875,16
+474,VST,Utilities,Utilities - Independent Power Producers,0.7142857142857143,7
+475,VMC,Basic Materials,Building Materials,0.6666666666666666,51
+476,WRB,Financial Services,Insurance - Property & Casualty,0.54,50
+477,GWW,Industrials,Industrial Distribution,0.6666666666666666,51
+478,WAB,Industrials,Railroads,0.6428571428571429,28
+479,WBA,Healthcare,Pharmaceutical Retailers,0.5227272727272727,44
+480,WMT,Consumer Defensive,Discount Stores,0.5490196078431373,51
+481,DIS,Communication Services,Entertainment,0.7096774193548387,62
+482,WBD,Communication Services,Entertainment,0.5555555555555556,18
+483,WM,Industrials,Waste Management,0.6,35
+484,WAT,Healthcare,Diagnostics & Research,0.5714285714285714,28
+485,WEC,Utilities,Utilities - Regulated Electric,0.5454545454545454,44
+486,WFC,Financial Services,Banks - Diversified,0.5098039215686274,51
+487,WELL,Real Estate,REIT - Healthcare Facilities,0.5454545454545454,44
+488,WST,Healthcare,Medical Instruments & Supplies,0.5454545454545454,44
+489,WDC,Technology,Computer Hardware,0.6888888888888889,45
+490,WY,Real Estate,REIT - Specialty,0.74,50
+491,WMB,Energy,Oil & Gas Midstream,0.5238095238095238,42
+492,WTW,Financial Services,Insurance Brokers,0.5909090909090909,22
+493,WYNN,Consumer Cyclical,Resorts & Casinos,0.8095238095238095,21
+494,XEL,Utilities,Utilities - Regulated Electric,0.45098039215686275,51
+495,XYL,Industrials,Specialty Industrial Machinery,0.4166666666666667,12
+496,YUM,Consumer Cyclical,Restaurants,0.6538461538461539,26
+497,ZBRA,Technology,Communication Equipment,0.46875,32
+498,ZBH,Healthcare,Medical Devices,0.6818181818181818,22
+499,ZTS,Healthcare,Drug Manufacturers - Specialty & Generic,0.6363636363636364,11

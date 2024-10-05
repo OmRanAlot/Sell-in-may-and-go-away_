@@ -1,0 +1,102 @@
+,ticker,sector,sub-industry,returns,totalYears
+0,ADBE,Technology,Software—Infrastructure,0.5675675675675675,37
+1,AMD,Technology,Semiconductors,0.7045454545454546,44
+2,ABNB,Consumer Cyclical,Travel Services,0.6666666666666666,3
+3,GOOGL,Communication Services,Internet Content & Information,0.3684210526315789,19
+4,GOOG,Communication Services,Internet Content & Information,0.3684210526315789,19
+5,AMZN,Consumer Cyclical,Internet Retail,0.5769230769230769,26
+6,AEP,Utilities,Utilities - Regulated Electric,0.45161290322580644,62
+7,AMGN,Healthcare,Drug Manufacturers - General,0.375,40
+8,ADI,Technology,Semiconductors,0.6818181818181818,44
+9,ANSS,Technology,Software - Application,0.5925925925925926,27
+10,AAPL,Technology,Consumer Electronics,0.5116279069767442,43
+11,AMAT,Technology,Semiconductor Equipment & Materials,0.6818181818181818,44
+12,ARM,Technology,Semiconductors,,0
+13,ASML,Technology,Semiconductor Equipment & Materials,0.6206896551724138,29
+14,AZN,Healthcare,Drug Manufacturers - General,0.4666666666666667,30
+15,TEAM,Technology,Software - Application,0.5,8
+16,ADSK,Technology,Software - Application,0.6842105263157895,38
+17,ADP,Technology,Software - Application,0.5,44
+18,BKR,Energy,Oil & Gas Equipment & Services,0.6756756756756757,37
+19,BIIB,Healthcare,Drug Manufacturers - General,0.4375,32
+20,BKNG,Consumer Cyclical,Travel Services,0.68,25
+21,AVGO,Technology,Semiconductors,0.5714285714285714,14
+22,CDNS,Technology,Software - Application,0.5277777777777778,36
+23,CDW,Technology,Information Technology Services,0.4,10
+24,CHTR,Communication Services,Telecom Services,0.42857142857142855,14
+25,CTAS,Industrials,Specialty Business Services,0.5,40
+26,CSCO,Technology,Communication Equipment,0.47058823529411764,34
+27,CCEP,Consumer Defensive,Beverages - Non-Alcoholic,0.6486486486486487,37
+28,CTSH,Technology,Information Technology Services,0.52,25
+29,CMCSA,Communication Services,Telecom Services,0.5,44
+30,CEG,Utilities,Utilities - Renewable,0.5,2
+31,CPRT,Industrials,Specialty Business Services,0.7,30
+32,CSGP,Real Estate,Real Estate Services,0.6,25
+33,COST,Consumer Defensive,Discount Stores,0.4864864864864865,37
+34,CRWD,Technology,Software - Infrastructure,0.25,4
+35,CSX,Industrials,Railroads,0.627906976744186,43
+36,DDOG,Technology,Software - Application,0.5,4
+37,DXCM,Healthcare,Medical Devices,0.5263157894736842,19
+38,FANG,Energy,Oil & Gas E&P,0.6363636363636364,11
+39,DLTR,Consumer Defensive,Discount Stores,0.5517241379310345,29
+40,DASH,Communication Services,Internet Content & Information,0.6666666666666666,3
+41,EA,Communication Services,Electronic Gaming & Multimedia,0.38235294117647056,34
+42,EXC,Utilities,Utilities - Regulated Electric,0.46,50
+43,FAST,Industrials,Industrial Distribution,0.6388888888888888,36
+44,FTNT,Technology,Software - Infrastructure,0.7142857142857143,14
+45,GEHC,Healthcare,Health Information Services,1.0,1
+46,GILD,Healthcare,Drug Manufacturers - General,0.40625,32
+47,GFS,Technology,Semiconductors,0.5,2
+48,HON,Industrials,Conglomerates,0.6290322580645161,62
+49,IDXX,Healthcare,Diagnostics & Research,0.59375,32
+50,ILMN,Healthcare,Diagnostics & Research,0.6086956521739131,23
+51,INTC,Technology,Semiconductors,0.6136363636363636,44
+52,INTU,Technology,Software - Application,0.45161290322580644,31
+53,ISRG,Healthcare,Medical Instruments & Supplies,0.43478260869565216,23
+54,KDP,Consumer Defensive,Beverages - Non-Alcoholic,0.6,15
+55,KLAC,Technology,Semiconductor Equipment & Materials,0.627906976744186,43
+56,KHC,Consumer Defensive,Packaged Foods,0.5,8
+57,LRCX,Technology,Semiconductor Equipment & Materials,0.5897435897435898,39
+58,LIN,Basic Materials,Specialty Chemicals,0.6774193548387096,31
+59,LULU,Consumer Cyclical,Apparel Retail,0.5625,16
+60,MAR,Consumer Cyclical,Lodging,0.6538461538461539,26
+61,MRVL,Technology,Semiconductors,0.6086956521739131,23
+62,MELI,Consumer Cyclical,Internet Retail,0.75,16
+63,META,Communication Services,Internet Content & Information,0.45454545454545453,11
+64,MCHP,Technology,Semiconductors,0.5806451612903226,31
+65,MU,Technology,Semiconductors,0.6153846153846154,39
+66,MSFT,Technology,Software - Infrastructure,0.5263157894736842,38
+67,MRNA,Healthcare,Biotechnology,0.6,5
+68,MDLZ,Consumer Defensive,Confectioners,0.5454545454545454,22
+69,MDB,Technology,Software - Infrastructure,0.3333333333333333,6
+70,MNST,Consumer Defensive,Beverages - Non-Alcoholic,0.6578947368421053,38
+71,NFLX,Communication Services,Entertainment,0.5238095238095238,21
+72,NVDA,Technology,Semiconductors,0.56,25
+73,NXPI,Technology,Semiconductors,0.5384615384615384,13
+74,ORLY,Consumer Cyclical,Specialty Retail,0.5161290322580645,31
+75,ODFL,Industrials,Trucking,0.65625,32
+76,ON,Technology,Semiconductors,0.6956521739130435,23
+77,PCAR,Industrials,Farm & Heavy Construction Machinery,0.6818181818181818,44
+78,PANW,Technology,Software - Infrastructure,0.36363636363636365,11
+79,PAYX,Technology,Software - Application,0.525,40
+80,PYPL,Financial Services,Credit Services,0.625,8
+81,PDD,Consumer Cyclical,Internet Retail,0.2,5
+82,PEP,Consumer Defensive,Beverages - Non-Alcoholic,0.5294117647058824,51
+83,QCOM,Technology,Semiconductors,0.53125,32
+84,REGN,Healthcare,Biotechnology,0.42424242424242425,33
+85,ROP,Technology,Software - Application,0.59375,32
+86,ROST,Consumer Cyclical,Apparel Retail,0.6578947368421053,38
+87,SBUX,Consumer Cyclical,Restaurants,0.5161290322580645,31
+88,SMCI,Technology,Computer Hardware,0.6470588235294118,17
+89,SNPS,Technology,Software - Infrastructure,0.53125,32
+90,TTWO,Communication Services,Electronic Gaming & Multimedia,0.4074074074074074,27
+91,TMUS,Communication Services,Telecom Services,0.5882352941176471,17
+92,TSLA,Consumer Cyclical,Auto Manufacturers,0.38461538461538464,13
+93,TXN,Technology,Semiconductors,0.6078431372549019,51
+94,TTD,Technology,Software - Application,0.42857142857142855,7
+95,VRSK,Industrials,Consulting Services,0.6428571428571429,14
+96,VRTX,Healthcare,Biotechnology,0.5,32
+97,WBD,Communication Services,Entertainment,0.5555555555555556,18
+98,WDAY,Technology,Software - Application,0.45454545454545453,11
+99,XEL,Utilities,Utilities - Regulated Electric,0.45098039215686275,51
+100,ZS,Technology,Software - Infrastructure,0.3333333333333333,6

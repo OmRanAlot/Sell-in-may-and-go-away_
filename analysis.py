@@ -1,4 +1,6 @@
 from SellMayGoAwayV2 import *
+import pandas as pd
+
 df_sp = pd.read_csv('returns_S&P.csv')
 df_nyse = pd.read_csv('returns_NYSE.csv')
 df_nasdaq = pd.read_csv('returns_NASDAQ.csv')
