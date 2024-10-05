@@ -131,16 +131,26 @@ def plot_returns(df_para, name):
 def on_hover(event):
     # Check if the mouse is over the axes
     if event.inaxes == ax:
+        hovering = False
         for line in lines:
             # Get the line data
             contains, _ = line.contains(event)
             if contains:
                 # Highlight the line by increasing its width and changing its color
                 line.set_linewidth(4)
-                line.set_color('red')
+                line.set_alpha(1)
+                hovering = True
             else:
                 # Reset the line style when not hovered over
                 line.set_linewidth(2)
+                line.set_alpha(.2)
+
+        if not hovering:
+            for line in lines:
+                # Reset the line style when not hovered over
+                line.set_linewidth(2)
+                line.set_alpha(.2)
+
         fig.canvas.draw_idle()  # Redraw the canvas for updates
 
 #Testing
@@ -197,6 +207,11 @@ plot_returns(xlu_etf, 'Utilities')
 fig.canvas.mpl_connect('motion_notify_event', on_hover)
 plt.grid(True)
 
+plt.title("Sector ETF Returns")
+plt.xlabel("Year")
+plt.ylabel("Returns")
+
+plt.legend()
 plt.show()
 
 
