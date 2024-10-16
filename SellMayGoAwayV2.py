@@ -123,39 +123,19 @@ def calculate_returns(sym):
 
     return [pct, total, df3]
 
-def plot_returns(df_para, name):
-    df = df_para[2]
-    lines.append(ax.plot(df['year'], df['NovApril_rtn']- df['MayOct_rtn'], label=f'{name}')[0])
 
 
-def on_hover(event):
-    # Check if the mouse is over the axes
-    if event.inaxes == ax:
-        hovering = False
-        for line in lines:
-            # Get the line data
-            contains, _ = line.contains(event)
-            if contains:
-                # Highlight the line by increasing its width and changing its color
-                line.set_linewidth(4)
-                line.set_alpha(1)
-                hovering = True
-            else:
-                # Reset the line style when not hovered over
-                line.set_linewidth(2)
-                line.set_alpha(.2)
-
-        if not hovering:
-            for line in lines:
-                # Reset the line style when not hovered over
-                line.set_linewidth(2)
-                line.set_alpha(.2)
-
-        fig.canvas.draw_idle()  # Redraw the canvas for updates
-
-#Testing
-
-
+df = pd.read_csv("returns_S&P.csv")
+tickers = df["ticker"].to_list()
+count = 1
+for i in tickers:
+    x = calculate_returns(i)[2].tail(2)
+    try:
+        if x["NovApril_rtn"].values[0] > x["MayOct_rtn"].values[0]:
+            count +=1
+    except:
+        pass
+print(count)
 # --------------------------------------------------------------------------------SECTORS
 # Communication Services ETF
 xlc_etf = calculate_returns("XLC")
@@ -190,29 +170,7 @@ xlk_etf = calculate_returns("XLK")
 # Utilities ETF
 xlu_etf = calculate_returns("XLU")
 
-fig, ax = plt.subplots()
-lines = []
-plot_returns(xlc_etf, 'Communication Services')
-plot_returns(xly_etf, 'Consumer Discretionary')
-plot_returns(xlp_etf, 'Consumer Staples')
-plot_returns(xle_etf, 'Energy')
-plot_returns(xlf_etf, 'Financials')
-plot_returns(xlv_etf, 'Healthcare')
-plot_returns(xli_etf, 'Industrials')
-plot_returns(xlb_etf, 'Materials')
-plot_returns(xlre_etf, 'Real Estate')
-plot_returns(xlk_etf, 'Technology')
-plot_returns(xlu_etf, 'Utilities')
-
-fig.canvas.mpl_connect('motion_notify_event', on_hover)
-plt.grid(True)
-
-plt.title("Sector ETF Returns")
-plt.xlabel("Year")
-plt.ylabel("Returns")
-
-plt.legend()
-plt.show()
+print(xlu_etf[2].tail(2))
 
 
 # ------------------------------------------------------------------------------BANK
