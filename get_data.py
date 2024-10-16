@@ -1,7 +1,7 @@
 import pandas as pd
 import yfinance as yf
 import numpy as np
-from SellMayGoAwayV2 import *
+from main import *
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
